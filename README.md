@@ -1,4 +1,11 @@
-### Hi there 👋
+<table> 
+<tr style='border:0px'>
+<td>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adswa&show_icons=true&theme=slateorange" /></td>
+<td>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adswa&layout=compact&theme=slateorange" /></td>
+</tr>
+</table>
+
+
 
 <!--
 **adswa/adswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
